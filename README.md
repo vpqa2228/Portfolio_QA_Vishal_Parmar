@@ -1,6 +1,6 @@
 # Portfolio_QA_Vishal_Parmar
 
-1.	Title: Oktion [Web & Mobile App]
+Project Title: Oktion [Web & Mobile App]
 
 Period: 1.1 Years 
 
@@ -14,7 +14,7 @@ Web App Link: https://oktion.com.au
    
 
 
-2. Title: Puppi Lover [Mobile App]
+Project Title: Puppi Lover [Mobile App]
 
 Period: 5-6 Months
 
@@ -26,7 +26,7 @@ Link: Latest version Available on Play-store and App-store.
 
 
 
-3.	Title : You Champ [Web & Mobile App]
+Project Title : You Champ [Web & Mobile App]
 
 Period: 3 Months
 
@@ -38,7 +38,7 @@ Link: Under Development
 
 
 
-4.	Title: Quickcam [Mobile App]
+Project Title: Quickcam [Mobile App]
 
 Period: 6 Months
 
@@ -50,7 +50,7 @@ Link: Latest Available on Play-store and App-store
 
 
 
-5.	Title: Team Train Hub – Namaste Village  [Web & Mobile App]
+Peoject Title: Team Train Hub – Namaste Village  [Web & Mobile App]
 
 Period: 4 Months
 
@@ -62,7 +62,7 @@ Link: Under Development
 
 
 
-6.	Title: Stand4kids [Website]
+Project Title: Stand4kids [Website]
 
 Period: 4-5 Months
 
@@ -72,7 +72,7 @@ Description: It is a woo-commerce based project which is developed in Word Press
 
 
 
-7.	Title : Walk In Robe [Mobile App]
+Project Title : Walk In Robe [Mobile App]
 
 Period: 2-3 Months
 
@@ -84,7 +84,7 @@ Link: Latest version available on Play-store and App-store.
 
 
 
-8.	Title: Rostr [Mobile App]
+Project Title: Rostr [Mobile App]
 
 Period: 2-3 Months	
 
@@ -96,7 +96,7 @@ Link: Latest version available on Play-store and App-store [Only available for A
 
 
 
-9.	Title: High Jump, Jetani Brothers, The Clone conservatory, Hrinkow - bikes, Namaste Village, Go Dharmic [Website]
+Project Title: High Jump, Jetani Brothers, The Clone conservatory, Hrinkow - bikes, Namaste Village, Go Dharmic [Website]
 
 Period: 1.10 Years
 
